@@ -1,0 +1,12 @@
+{
+  "name": "ui-design-8a579r",
+  "version": "1.0.0",
+  "description": "Generated project for ui-design-8a579r",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
